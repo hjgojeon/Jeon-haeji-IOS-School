@@ -1,5 +1,5 @@
 ### hj-program
-------------------------
+---------------------------
 # Heders
 
 # This is an <h1> tag
@@ -37,4 +37,30 @@ Format: ![Alt Text](url)
 # Links
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+# Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+# Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+# Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+# Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+# Inline code
+I think you should use an
+`<addr>` element here instead.
+
 
