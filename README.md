@@ -1,6 +1,6 @@
 ### hj-program
 ---------------------------
-__# Syntax guide__
+# Syntax guide
 ## Heders
 
 # This is an <h1> tag
