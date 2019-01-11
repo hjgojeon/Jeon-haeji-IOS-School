@@ -1,7 +1,7 @@
 ### hj-program
 ---------------------------
-# Syntax guide
-> ## Heders
+**# Syntax guide**
+## Heders
 
 # This is an <h1> tag
 ## This is an <h2> tag
@@ -52,7 +52,7 @@ I think you should use an
 `<addr>` element here instead.
 
 ---------------------------------
-## Syntax highlighting
+**## Syntax highlighting**
 
 ## Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
 ```javascript
