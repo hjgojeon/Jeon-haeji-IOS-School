@@ -1,3 +1,7 @@
 ## 2019-03-04
 
-** Typing practice
+**Typing practice
+
+**slack 
+
+*OT
